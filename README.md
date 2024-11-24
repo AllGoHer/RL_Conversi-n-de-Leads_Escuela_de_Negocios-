@@ -49,7 +49,7 @@ Identificar los 'HOT LEADS'(leads de alta conversión) para optimizar las estrat
       
     * Desde sklearn Modelo lineal importamos LogisticRegression (Regresión Logística).
       
-    ** Desde sklearn metricas usamos:
+* Desde sklearn metricas usamos:
     
     1. Matriz de confusión
        
@@ -70,8 +70,9 @@ Identificar los 'HOT LEADS'(leads de alta conversión) para optimizar las estrat
        Positivos) también según se varía el umbral de discriminación (valor a partir del cual decidimos que un caso es un positivo). Así mismo, ROC también puede significar Relative Operating Characteristic 
        (Característica Operativa Relativa) porque es una comparación de dos características operativas (VPR y FPR) según cambiamos el umbral para la decisión.
    
+       ![image](https://github.com/user-attachments/assets/420cd907-38d4-407e-872d-3dac4f9fad8b)
+
        
-       ![image.png](attachment:aa05f83a-592a-407c-a070-0d84ca71c933.png)
        
 
   # AUTOR
