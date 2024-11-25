@@ -72,8 +72,11 @@ Identificar los 'HOT LEADS'(leads de alta conversión) para optimizar las estrat
    
        ![image](https://github.com/user-attachments/assets/420cd907-38d4-407e-872d-3dac4f9fad8b)
 
-       
-       
+
+
+  
+       Codigo Python del Proyecto:  [click ](https://github.com/AllGoHer/RL_Conversi-n-de-Leads_Escuela_de_Negocios-/blob/main/Conversion_de_Leads_con_Regresi%C3%B3n_Logistica_II_EON.ipynb) 
+
 
   # AUTOR
 
@@ -86,7 +89,7 @@ Identificar los 'HOT LEADS'(leads de alta conversión) para optimizar las estrat
  
  
 
-  Codigo Python del Proyecto:  [click ](https://github.com/AllGoHer/RL_Conversi-n-de-Leads_Escuela_de_Negocios-/blob/main/Conversion_de_Leads_con_Regresi%C3%B3n_Logistica_II_EON.ipynb)
+ 
 
 
 
